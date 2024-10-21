@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountService", "AccountService\AccountService.csproj", "{7190A03D-0B44-45E3-86A3-DF9D4470C46C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountServiceTest", "AccountServiceTest\AccountServiceTest.csproj", "{CDFECDB5-C0F0-4037-BDB4-5E942411A60F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoRunner", "DemoRunner\DemoRunner.csproj", "{F9D10684-990B-4838-8CCB-C5740BF0E6D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7190A03D-0B44-45E3-86A3-DF9D4470C46C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7190A03D-0B44-45E3-86A3-DF9D4470C46C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7190A03D-0B44-45E3-86A3-DF9D4470C46C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7190A03D-0B44-45E3-86A3-DF9D4470C46C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDFECDB5-C0F0-4037-BDB4-5E942411A60F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDFECDB5-C0F0-4037-BDB4-5E942411A60F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDFECDB5-C0F0-4037-BDB4-5E942411A60F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDFECDB5-C0F0-4037-BDB4-5E942411A60F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9D10684-990B-4838-8CCB-C5740BF0E6D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D10684-990B-4838-8CCB-C5740BF0E6D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D10684-990B-4838-8CCB-C5740BF0E6D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D10684-990B-4838-8CCB-C5740BF0E6D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
